@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hobo-Hilly
 My real name is Carl Shaw and I am an Ethical Hacker looking for my first home.
-- 👀 I’m interested in Cyber Security! I have spent over 200 hours on  https://www.itpro.tv/ 
+- 👀 I’m interested in Cyber Security! I have spent over 450 hours on  https://www.itpro.tv/ 
 -  And I currently sit in the top 2% of users for the security training platform TryHackMe https://tryhackme.com/dashboard. I am trying to get my foot in the door anywhere that will
 -  take me and teach me more security. I wanted to be a cop when I grew up but life got in the way as it tends to do
 -  I love computers and cell phones so I saw cyber security as a second chance at a childhood dream. I am self-taught and proud of it.
